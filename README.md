@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Chisomjuan/Chisomjuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Chisom Ibeneme**
 
-Here are some ideas to get you started:
+**I am a Data Analyst**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m Open for Entry Level Data Analyst Role.
+- 🌱 I’m currently learning Advanced Excel, Power BI, TABLEAU and SQL
+- 👯 I’m looking to collaborate with organisations and individuals to help solve their business problems by leveraging data
+- 💬 Ask me anything about Data and I will gladly answer you
+- 📫 How to reach me: [Here](https://www.linkedin.com/in/chisom-onyemalu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 😄 Pronouns: She, Her
+- ⚡ Fun fact: I love to teach and learn new things
+  
