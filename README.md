@@ -12,7 +12,7 @@
 - 💬 Ask me anything about Data and I will be very happy to help
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chisom-ibeneme/)
 - 😄 Pronouns: She, Her
-- ⚡ Fun fact: I love to teach and learn new things
+- ⚡ Fun fact: I love teaching and public speaking.
   
 **MY SKILLS**
 
